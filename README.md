@@ -6,7 +6,7 @@ Versi: 1.0
 
 ## Anggota Tim
 
-(belum ada anggota yang ditambahkan)
+Daftar lengkap anggota tim ada di file anggota.md (3 orang).
 
 ## Catatan
 
