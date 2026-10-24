@@ -16,7 +16,7 @@ File ini dipakai bersama oleh seluruh anggota tim.
 
 ## Jadwal
 
-(belum ada jadwal)
+Jadwal lengkap ada di file jadwal.md (3 minggu).
 
 ## Penutup
 
